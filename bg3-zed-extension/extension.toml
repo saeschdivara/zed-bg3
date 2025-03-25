@@ -1,0 +1,15 @@
+id = "bg3-extension"
+name = "Baldurs Gate 3 Modding Extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["Your Name <you@example.com>"]
+description = "My cool extension"
+repository = "https://github.com/your-name/my-zed-extension"
+
+[language_servers.bg3]
+name = "BG3 Modding"
+language = "BG3 Modding File"
+
+[grammars.java]
+repository = "https://github.com/saeschdivara/zed-bg3"
+commit = "99b29f1ed957b3b424b6e21f57bd21a9732a622a"

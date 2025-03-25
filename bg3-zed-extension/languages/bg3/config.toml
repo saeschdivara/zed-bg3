@@ -1,0 +1,4 @@
+name = "BG3"
+grammar = "bg3"
+path_suffixes = []
+line_comments = ["# "]
