@@ -10,6 +10,6 @@ repository = "https://github.com/your-name/my-zed-extension"
 name = "BG3 Modding"
 language = "BG3 Modding File"
 
-[grammars.java]
-repository = "https://github.com/saeschdivara/zed-bg3"
-commit = "99b29f1ed957b3b424b6e21f57bd21a9732a622a"
+[grammars.bg_3]
+repository = "https://github.com/saeschdivara/zed-bg3/bg3-zed-extension"
+commit = "654d13914b906bc7aaac21a98a7b1d80ceb628b2"

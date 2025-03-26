@@ -1,4 +1,4 @@
 name = "BG3"
-grammar = "bg3"
+grammar = "bg_3"
 path_suffixes = []
 line_comments = ["# "]
